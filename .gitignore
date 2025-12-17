@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+uploads/temp_assinatura/
+uploads/assinados/
+.env
