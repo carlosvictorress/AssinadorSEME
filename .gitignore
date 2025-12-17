@@ -1,6 +1,9 @@
+# Ignora todos os arquivos dentro da pasta uploads
+uploads/*
+
+# Ignora ambientes virtuais
 .venv/
 __pycache__/
-*.pyc
-uploads/temp_assinatura/
-uploads/assinados/
+
+# Ignora chaves de e-mail e configurações sensíveis
 .env
